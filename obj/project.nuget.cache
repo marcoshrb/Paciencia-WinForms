@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aAhKMOE5d0s+odcGpNoJM+F/f6hbIvG+vq/7Uro1s2T6gqTj0ACt/8ffaS/V/cob3fBr8j8owXH3C4OArx9vEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\disrct\\Desktop\\Equipe_Foxtrot\\Foxtrot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\disrct\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\disrct\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\disrct\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\disrct\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

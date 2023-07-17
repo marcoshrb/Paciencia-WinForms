@@ -1,0 +1,60 @@
+C:\Users\disrct\Desktop\kinect\Foxtrot\bin\Debug\net6.0-windows\Foxtrot.exe
+C:\Users\disrct\Desktop\kinect\Foxtrot\bin\Debug\net6.0-windows\Foxtrot.deps.json
+C:\Users\disrct\Desktop\kinect\Foxtrot\bin\Debug\net6.0-windows\Foxtrot.runtimeconfig.json
+C:\Users\disrct\Desktop\kinect\Foxtrot\bin\Debug\net6.0-windows\Foxtrot.dll
+C:\Users\disrct\Desktop\kinect\Foxtrot\bin\Debug\net6.0-windows\Foxtrot.pdb
+C:\Users\disrct\Desktop\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.AssemblyInfo.cs
+C:\Users\disrct\Desktop\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.dll
+C:\Users\disrct\Desktop\kinect\Foxtrot\obj\Debug\net6.0-windows\refint\Foxtrot.dll
+C:\Users\disrct\Desktop\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.pdb
+C:\Users\disrct\Desktop\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.genruntimeconfig.cache
+C:\Users\disrct\Desktop\kinect\Foxtrot\obj\Debug\net6.0-windows\ref\Foxtrot.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Marcos Henrique\kinect\Foxtrot\bin\Debug\net6.0-windows\Foxtrot.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Marcos Henrique\kinect\Foxtrot\bin\Debug\net6.0-windows\Foxtrot.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Marcos Henrique\kinect\Foxtrot\bin\Debug\net6.0-windows\Foxtrot.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Marcos Henrique\kinect\Foxtrot\bin\Debug\net6.0-windows\Foxtrot.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Marcos Henrique\kinect\Foxtrot\bin\Debug\net6.0-windows\Foxtrot.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Marcos Henrique\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Marcos Henrique\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Marcos Henrique\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Marcos Henrique\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Marcos Henrique\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Marcos Henrique\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Marcos Henrique\kinect\Foxtrot\obj\Debug\net6.0-windows\refint\Foxtrot.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Marcos Henrique\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Marcos Henrique\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Marcos Henrique\kinect\Foxtrot\obj\Debug\net6.0-windows\ref\Foxtrot.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Eric Coutinho\PROJETOS\kinect\Foxtrot\bin\Debug\net6.0-windows\Foxtrot.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Eric Coutinho\PROJETOS\kinect\Foxtrot\bin\Debug\net6.0-windows\Foxtrot.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Eric Coutinho\PROJETOS\kinect\Foxtrot\bin\Debug\net6.0-windows\Foxtrot.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Eric Coutinho\PROJETOS\kinect\Foxtrot\bin\Debug\net6.0-windows\Foxtrot.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Eric Coutinho\PROJETOS\kinect\Foxtrot\bin\Debug\net6.0-windows\Foxtrot.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Eric Coutinho\PROJETOS\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Eric Coutinho\PROJETOS\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Eric Coutinho\PROJETOS\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Eric Coutinho\PROJETOS\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Eric Coutinho\PROJETOS\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Eric Coutinho\PROJETOS\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Eric Coutinho\PROJETOS\kinect\Foxtrot\obj\Debug\net6.0-windows\refint\Foxtrot.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Eric Coutinho\PROJETOS\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Eric Coutinho\PROJETOS\kinect\Foxtrot\obj\Debug\net6.0-windows\Foxtrot.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Eric Coutinho\PROJETOS\kinect\Foxtrot\obj\Debug\net6.0-windows\ref\Foxtrot.dll
+C:\Users\disrct\Desktop\Equipe_Foxtrot\bin\Debug\net6.0-windows\Foxtrot.exe
+C:\Users\disrct\Desktop\Equipe_Foxtrot\bin\Debug\net6.0-windows\Foxtrot.deps.json
+C:\Users\disrct\Desktop\Equipe_Foxtrot\bin\Debug\net6.0-windows\Foxtrot.runtimeconfig.json
+C:\Users\disrct\Desktop\Equipe_Foxtrot\bin\Debug\net6.0-windows\Foxtrot.dll
+C:\Users\disrct\Desktop\Equipe_Foxtrot\bin\Debug\net6.0-windows\Foxtrot.pdb
+C:\Users\disrct\Desktop\Equipe_Foxtrot\obj\Debug\net6.0-windows\Foxtrot.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\Equipe_Foxtrot\obj\Debug\net6.0-windows\Foxtrot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\Equipe_Foxtrot\obj\Debug\net6.0-windows\Foxtrot.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\Equipe_Foxtrot\obj\Debug\net6.0-windows\Foxtrot.AssemblyInfo.cs
+C:\Users\disrct\Desktop\Equipe_Foxtrot\obj\Debug\net6.0-windows\Foxtrot.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Equipe_Foxtrot\obj\Debug\net6.0-windows\Foxtrot.dll
+C:\Users\disrct\Desktop\Equipe_Foxtrot\obj\Debug\net6.0-windows\refint\Foxtrot.dll
+C:\Users\disrct\Desktop\Equipe_Foxtrot\obj\Debug\net6.0-windows\Foxtrot.pdb
+C:\Users\disrct\Desktop\Equipe_Foxtrot\obj\Debug\net6.0-windows\Foxtrot.genruntimeconfig.cache
+C:\Users\disrct\Desktop\Equipe_Foxtrot\obj\Debug\net6.0-windows\ref\Foxtrot.dll
