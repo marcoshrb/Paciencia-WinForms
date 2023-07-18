@@ -35,18 +35,15 @@ public class CompradoDeck : CardBlock
 
             if (cursor.Y > this.Location.Y && cursor.Y < lowerBound)
             {
-                if (this.Cards.Count == 0 && cursor.Y > upperBound)
-                    return null;
-
                 var newBlockTest = new CardBlock();
 
                 float _x = cursor.X - this.Location.X;
                 float _y = cursor.Y - this.Location.Y;
                 newBlockTest.ptClick = new PointF(_x, _y);
 
-                newBlockTest.Cards.Add(this.Cards[this.Cards.Count - 1]);
+                newBlockTest.Cards.Add(this.Cards[^1]);
 
-                this.Cards.Remove(this.Cards[this.Cards.Count - 1]);
+                this.Cards.Remove(this.Cards[^1]);
 
                 ptClick = new PointF(
                     cursor.X - this.Rect.X,
@@ -59,7 +56,7 @@ public class CompradoDeck : CardBlock
     }
     public override void Draw(Graphics g)
     {
-        if (this.Cards.Count <1)
+        if (this.Cards.Count < 1)
             return;
         g.DrawRectangle(Pens.Red,
             this.Rect.X, Rect.Y,

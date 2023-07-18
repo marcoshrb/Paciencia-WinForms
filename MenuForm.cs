@@ -204,8 +204,13 @@ public class MenuForm : Form
         for (int i = 0; i < blocks.Count; i++)
         {
             var block = blocks[i];
+
+
             var cursorInBlock = block.Rect.Contains(cursor);
 
+            if (!isDown && block is ShopDeck shop)
+                shop.Selected = false;
+            
             if (cursorInBlock && isDown && selected is null)
             {
                 var selected = block.OnSelect(cursor);

@@ -11,7 +11,9 @@ public class ShopDeck : CardBlock
 {
     Card coronga = Card.Coronga();
 
-    CompradoDeck compra = new();   
+    CompradoDeck compra = new();
+
+    public bool Selected { get; set; } = false;
     public override RectangleF Rect
     {
         get
@@ -37,15 +39,15 @@ public class ShopDeck : CardBlock
 
         compra.Location = new Point(1740, 160);
 
+        if(compra.Cards.Count == 0){
+                compra.Cards.Add(coronga);
+        }
+
         var cardsArea = new Rectangle(1740, 20, 79, 110);
 
-        if (this.Cards.Count() > 1 && cardsArea.Contains(cursor)){
-
-
-            if(compra.Cards.Count == 0){
-                compra.Cards.Add(coronga);
-            }
-
+        if (this.Cards.Count() > 1 && cardsArea.Contains(cursor) && !Selected)
+        {
+            Selected = true;
             compra.Cards.Add(ultima);
 
             this.Cards.Remove(ultima);
@@ -53,38 +55,20 @@ public class ShopDeck : CardBlock
             return compra;
         }
 
-        if (this.Cards.Count() < 2 && cardsArea.Contains(cursor)){
+        if (this.Cards.Count() < 2 && cardsArea.Contains(cursor) && !Selected)
+        {
+            Selected = true;
             
             foreach (var card in compra.Cards){
-                card.Visible = false;
-                this.Cards.Add(card);
+                if (card != coronga){
+                    card.Visible = false;
+                    this.Cards.Add(card);
+                }
             }
             compra.Cards.Clear();
-            compra.Cards.Add(coronga);
-
-
-
-
-            List<Card> cartasRemover = new List<Card>();
-
-            // foreach (var card in compra.Cards){
-            //     if(card != coronga){
-            //         card.Visible = false;
-            //         this.Cards.Add(card);
-            //         cartasRemover.Add(card);    
-            //     }
-            // }
-            
-            // foreach (var card in cartasRemover){
-            //     compra.Cards.Remove(card);
-            // }
-            
-            // this.Cards.Remove(this.Cards.Last());
-            // compra.Cards.Add(coronga);
-            
-            // compra.Cards.Clear();
             return null;
         }
+
         return null;
     }
 
