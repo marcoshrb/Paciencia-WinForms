@@ -63,6 +63,11 @@ public class FixedCardDeck : CardBlock
             Rect.Width, Rect.Height
         );
 
+        SolidBrush solidBrush = new SolidBrush( Color.White);
+        g.FillRectangle(solidBrush,
+            this.Rect.X, Rect.Y,
+            Rect.Width, Rect.Height);
+
         Card card = Cards[Cards.Count - 1];
 
         var rect = new Rectangle(

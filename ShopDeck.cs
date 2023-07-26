@@ -13,7 +13,7 @@ public class ShopDeck : CardBlock
 
     CompradoDeck compra = new();
 
-    public bool Selected { get; set; } = false;
+    public bool Selected { get; set;} = false;
     public override RectangleF Rect
     {
         get
@@ -80,6 +80,7 @@ public class ShopDeck : CardBlock
             this.Rect.X, Rect.Y,
             Rect.Width, Rect.Height
         );
+
 
         Card card = Cards[Cards.Count - 1];
 

@@ -192,7 +192,6 @@ public class MenuForm : Form
                     continue;
                 }
             }
-            
         }
 
         if (selected is not null)
@@ -224,6 +223,7 @@ public class MenuForm : Form
                 selected = null;
                 i--;
             }
+            
 
             if (isDown && selected is not null)
                 selected.OnMove(cursor);

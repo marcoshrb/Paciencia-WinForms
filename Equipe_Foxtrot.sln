@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.001.0
+VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foxtrot", "Foxtrot.csproj", "{45D0ADD9-3666-41E1-9064-8D5E30D46579}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foxtrot", "Foxtrot.csproj", "{6C57BC73-8087-4B2F-8DE2-DAA9CF29C8C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{45D0ADD9-3666-41E1-9064-8D5E30D46579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{45D0ADD9-3666-41E1-9064-8D5E30D46579}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{45D0ADD9-3666-41E1-9064-8D5E30D46579}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{45D0ADD9-3666-41E1-9064-8D5E30D46579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C57BC73-8087-4B2F-8DE2-DAA9CF29C8C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C57BC73-8087-4B2F-8DE2-DAA9CF29C8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C57BC73-8087-4B2F-8DE2-DAA9CF29C8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C57BC73-8087-4B2F-8DE2-DAA9CF29C8C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {13A15ECB-14E9-41A5-8D97-F1E1F77CEA03}
+		SolutionGuid = {7BF59562-6F1F-49BF-ABA9-22DEC13F3B28}
 	EndGlobalSection
 EndGlobal

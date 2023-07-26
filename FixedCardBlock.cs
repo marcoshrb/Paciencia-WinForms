@@ -24,7 +24,7 @@ public class FixedCardBlock : CardBlock
     }
     public override CardBlock OnSelect(Point cursor)
     {
-        if (this.Cards.Count > 1 && cursor.Y > this.Location.Y + Gap)
+        if (this.Cards.Count > 1 && cursor.Y > this.Location.Y + Gap )
         {
             for (int j = 1; j < this.Cards.Count; j++)
             {
